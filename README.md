@@ -1,24 +1,163 @@
 <h1 align="center">Hi, We are Youth Tech Link</h1>
-<h3 align="center">Youth Tech Link (YTL) is a student-powered, technology-driven youth society established to empower students across Pakistan with technical, digital, and professional skills. Our programs, internships, and workshops are tailored to develop industry-relevant competencies in youth.
-  Founded By: Malik Mohazin Zahid
-  Established In: 2025
-  Core Focus: Tech Training, Internships, Empowerment & Career Development</h3>
 
-- 🔭 We have worked on **National AI Awareness Campaign**
+<h3 align="center">Youth Tech Link (YTL) is a student-powered, technology-driven youth society established to empower students across Pakistan with technical, digital, and professional skills. Our programs, internships, and workshops are tailored to develop industry-relevant competencies in youth.<br><br>
+Founded By: Malik Mohazin Zahid<br>
+Established In: 2025<br>
+Core Focus: Tech Training, Internships, Empowerment & Career Development</h3>
 
-- 🌱 We have worked on **Career Counseling & Resume Clinics**
+---
 
-- 👯 We have worked on **National Tech Internship 2025 (25 July – 25 August)**
+## 🌟 About Us
 
-- 🤝 We have worked on **AI Tools for Smart Living Workshop**
+Youth Tech Link (YTL) is a student-powered, technology-driven youth society established to empower students across Pakistan with technical, digital, and professional skills. Our programs, internships, and workshops are tailored to develop industry-relevant competencies in youth.
 
-- 👨‍💻 We have worked on Pakistan Digital Skills Mapping Drive
+---
 
-- 📝 We have worked on Design and creativity Bootcamp
+## 🌺 Our Mission
 
-- 💬 We have worked on **Tech for Youth Empowerment Series**
+- Deliver hands-on learning in tech & digital fields.
+- Create internship and mentorship opportunities.
+- Promote AI literacy, freelancing, and self-growth.
+- Encourage innovation, collaboration, and youth leadership.
 
-- 📫 How to reach me **youthtechlink@gmail.com**
+---
+
+## ✨ Our Vision
+
+To make every student tech-savvy, career-ready, and socially impactful through purposeful training and mentorship.
+
+---
+
+## 💼 Key Services
+
+### 🧠 Internships & Bootcamps
+- National Tech Internship Program (15+ Fields)
+- AI Tools & Applications
+- Cybersecurity Awareness & Training
+- Data Analysis with AI/ML
+- Full-Stack Web Development
+- Flutter & Mobile App Development
+
+### 🎓 Trainings & Courses
+- Public Speaking & Article Writing
+- Freelancing & Portfolio Building
+- Event Management with Tech
+- Career Counseling & Interview Prep
+- Resume Writing, LinkedIn, and GitHub Optimization
+- Personal Branding & Communication Skills
+
+### 💻 IT & Digital Services
+- Web Development (Static, Dynamic, CMS: WordPress, Wix)
+- App Development (Android, iOS, Flutter, React Native)
+- Graphic Designing (UI/UX, Logos, Branding Kits)
+- Video Editing (Reels, Promos, Event Coverage)
+- Marketing Services (SEO, Google Ads, Meta Ads, Email Marketing)
+- Social Media Management (Strategy, Content, Engagement)
+- Content Writing (Blogs, SEO Copy, Captions)
+- AI-Powered Tools & Automation
+- Cloud Deployment (Firebase, Vercel, Netlify, GitHub Pages)
+
+### 🗣️ Events & Seminars
+- Tech Webinars & Career Talks
+- Hackathons & Creative Competitions
+- Youth Summits & Meetups
+- Women in Tech Panels
+- Industry-Faculty Bridge Sessions
+
+### 🌍 Student Empowerment & Outreach
+- Leadership Roles & Campus Ambassadors
+- National Youth Council (YTL Chapters)
+- Communication & Team Management
+- Soft Skills & Ethics Training
+- Community Projects
+- Open Calls for Talent & Collaboration
+
+---
+
+## 📊 Core Skills Covered
+
+**Programming**: Python, C++, C#, Java, JavaScript, TypeScript, SQL, Dart, Rust, Go  
+**Frontend**: HTML5, CSS3, React.js, Vue.js, Bootstrap, Tailwind CSS, Redux, SASS  
+**Backend**: Node.js, Express.js, Django, Flask, Firebase, PHP  
+**Databases**: MySQL, MongoDB, PostgreSQL, SQLite, Firebase Realtime DB  
+**AI/ML/Data Science**: Pandas, Seaborn, Scikit-learn, OpenCV, NumPy, TensorFlow, PyTorch  
+**App Development**: Flutter, Kotlin, Android Studio, React Native  
+**DevOps & Tools**: GitHub, Docker, Jenkins, Postman, Firebase, Netlify, Vercel  
+**Design Tools**: Figma, Canva, Adobe Illustrator, Photoshop, Adobe XD  
+**Testing**: Selenium, Cypress, Jest, Mocha, Karma  
+**Content & Strategy**: Blogging, SEO Copywriting, Branding Guides, Hashtag Strategy
+
+---
+
+## 📈 Flagship Projects & Highlights
+
+- 🔹 National Tech Internship 2025 (25 July – 25 August)
+- 🔹 Design & Creativity Bootcamp
+- 🔹 AI Tools for Smart Living Workshop
+- 🔹 Advanced Event Management (8-Week Course)
+- 🔹 GitHub & LinkedIn Optimization Drive
+- 🔹 Career Counseling & Resume Clinics
+- 🔹 National AI Awareness Campaign
+- 🔹 Tech for Youth Empowerment Series
+- 🔹 Pakistan Digital Skills Mapping Drive
+
+---
+
+## 🚀 GitHub Stats & Milestones
+
+- 💼 20+ Repositories
+- 👥 500+ Contributors
+- 🧠 15+ Project Domains
+- 🎓 2000+ Internship Graduates
+- 🧑‍🏫 50+ Workshops Conducted
+- 🏛️ 100+ Institutional Collaborations
+
+---
+
+## ✨ Our Motto
+
+**"Don't live just for yourself — live for others and do something that inspires."**
+
+---
+
+## 🔭 Other Notable Work
+
+- National AI Awareness Campaign  
+- Career Counseling & Resume Clinics  
+- National Tech Internship 2025  
+- AI Tools for Smart Living Workshop  
+- Pakistan Digital Skills Mapping Drive  
+- Design and Creativity Bootcamp  
+- Tech for Youth Empowerment Series  
+
+---
+
+## 📫 How to reach us
+
+- **Email**: youthtechlink@gmail.com  
+- **Phone/WhatsApp**: +92 336 2222480  
+
+---
+
+## 🌐 Connect with us
+
+<p align="left">
+<a href="https://twitter.com/youthtechlink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/company/youthtechlink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://facebook.com/youthtechlink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/youthtechlink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://youtube.com/@youthtechlink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+<a href="https://github.com/youthtechlink" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="30" width="30" /></a>
+<a href="https://medium.com/@youthtechlink" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="Medium" height="30" width="30" /></a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+<!-- Leave your existing tools section as is, it is complete and covers all logos -->
+
+<!-- Your existing tools list was perfect, so no changes were made here -->
 
 
 <h3 align="left">Connect with me:</h3>
