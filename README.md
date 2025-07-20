@@ -1,5 +1,8 @@
 <h1 align="center">Hi, We are Youth Tech Link</h1>
-<h3 align="center">Youth Tech Link (YTL) is a student-powered, technology-driven youth society established to empower students across Pakistan with technical, digital, and professional skills. Our programs, internships, and workshops are tailored to develop industry-relevant competencies in youth. Founded By: Malik Mohazin Zahid\ Established In: 2025\ Core Focus: Tech Training, Internships, Empowerment & Career Development</h3>
+<h3 align="center">Youth Tech Link (YTL) is a student-powered, technology-driven youth society established to empower students across Pakistan with technical, digital, and professional skills. Our programs, internships, and workshops are tailored to develop industry-relevant competencies in youth.
+  Founded By: Malik Mohazin Zahid
+  Established In: 2025
+  Core Focus: Tech Training, Internships, Empowerment & Career Development</h3>
 
 - 🔭 We have worked on **National AI Awareness Campaign**
 
