@@ -137,29 +137,6 @@ To make every student tech-savvy, career-ready, and socially impactful through p
 - **Email**: youthtechlink@gmail.com  
 - **Phone/WhatsApp**: +92 336 2222480  
 
----
-
-## 🌐 Connect with us
-
-<p align="left">
-<a href="https://twitter.com/youthtechlink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/company/youthtechlink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://facebook.com/youthtechlink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/youthtechlink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://youtube.com/@youthtechlink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-<a href="https://github.com/youthtechlink" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="30" width="30" /></a>
-<a href="https://medium.com/@youthtechlink" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="Medium" height="30" width="30" /></a>
-</p>
-
----
-
-## 🛠️ Languages and Tools
-
-<!-- Leave your existing tools section as is, it is complete and covers all logos -->
-
-<!-- Your existing tools list was perfect, so no changes were made here -->
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/youthtechlink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/youthtechlink" height="30" width="40" /></a>
