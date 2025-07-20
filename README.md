@@ -9,15 +9,14 @@
 
 - 🤝 We have worked on **AI Tools for Smart Living Workshop**
 
-- 👨‍💻 We have worked on [Pakistan Digital Skills Mapping Drive](Pakistan Digital Skills Mapping Drive)
+- 👨‍💻 We have worked on Pakistan Digital Skills Mapping Drive
 
-- 📝 We have worked on [Design and creativity Bootcamp](Design and creativity Bootcamp)
+- 📝 We have worked on Design and creativity Bootcamp
 
 - 💬 We have worked on **Tech for Youth Empowerment Series**
 
 - 📫 How to reach me **youthtechlink@gmail.com**
 
-- 📫 How to reach me [youthtechlink@gmail.com](youthtechlink@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
